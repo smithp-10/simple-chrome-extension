@@ -1,0 +1,1 @@
+file://%20background.jsconsole.log('background%20script%20loaded');/
